@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json;
 
-namespace CoreRtRdXmlExamples
+namespace SystemTextJsonSerialization
 {
     public class WeatherForecast
     {

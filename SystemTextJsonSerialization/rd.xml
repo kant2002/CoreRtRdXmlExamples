@@ -1,0 +1,12 @@
+﻿<Directives xmlns="http://schemas.microsoft.com/netfx/2013/01/metadata">
+  <Application>
+    <Assembly Name="System.Text.Json">
+      <!-- for serialization of WeatherForecast -->
+      <Type Name="System.Text.Json.JsonPropertyInfoNotNullable`4[[SystemTextJsonSerialization.WeatherForecast,SystemTextJsonSerialization],[System.DateTimeOffset,System.Private.CoreLib],[System.DateTimeOffset,System.Private.CoreLib],[System.DateTimeOffset,System.Private.CoreLib]]" Dynamic="Required All" />
+      <Type Name="System.Text.Json.JsonPropertyInfoNotNullable`4[[SystemTextJsonSerialization.WeatherForecast,SystemTextJsonSerialization],[System.Int32,System.Private.CoreLib],[System.Int32,System.Private.CoreLib],[System.Int32,System.Private.CoreLib]]" Dynamic="Required All" />
+      <!-- for serialization of WeatherForecastWithNullable -->
+      <Type Name="System.Text.Json.JsonPropertyInfoNotNullable`4[[SystemTextJsonSerialization.WeatherForecastWithNullable,SystemTextJsonSerialization],[System.DateTimeOffset,System.Private.CoreLib],[System.DateTimeOffset,System.Private.CoreLib],[System.DateTimeOffset,System.Private.CoreLib]]" Dynamic="Required All" />
+      <Type Name="System.Text.Json.JsonPropertyInfoNullable`2[[SystemTextJsonSerialization.WeatherForecastWithNullable,SystemTextJsonSerialization],[System.Int32,System.Private.CoreLib]]" Dynamic="Required All" />
+    </Assembly>
+  </Application>
+</Directives>

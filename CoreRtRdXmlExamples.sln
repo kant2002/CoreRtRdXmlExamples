@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreRtRdXmlExamples", "CoreRtRdXmlExamples\CoreRtRdXmlExamples.csproj", "{B7AC9BE7-A885-4897-A42F-2B24045E031B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SystemTextJsonSerialization", "SystemTextJsonSerialization\SystemTextJsonSerialization.csproj", "{2276C40C-8D7D-46CC-9ED2-4C4948ECE537}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7AC9BE7-A885-4897-A42F-2B24045E031B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7AC9BE7-A885-4897-A42F-2B24045E031B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7AC9BE7-A885-4897-A42F-2B24045E031B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7AC9BE7-A885-4897-A42F-2B24045E031B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2276C40C-8D7D-46CC-9ED2-4C4948ECE537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2276C40C-8D7D-46CC-9ED2-4C4948ECE537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2276C40C-8D7D-46CC-9ED2-4C4948ECE537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2276C40C-8D7D-46CC-9ED2-4C4948ECE537}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
